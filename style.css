@@ -1,0 +1,40 @@
+h1{
+    text-align:  center;
+    color: red;
+    font-size:  30px;
+}
+.odd {
+    color:blue;
+}
+.even{
+    color:white;
+    background-color: blue;
+}
+/*this is for table*/
+table
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;
+    padding-top: 20px;
+}
+ul li 
+{
+    color:blue;
+}
+a[href="https://www.Havard.edu"]{
+    color:red;
+    text-decoration: none;
+}
+button 
+{
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+}
+button:hover{
+    background-color: green;
+}
